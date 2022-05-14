@@ -21,12 +21,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Norman's Blog                     # the main title
+title: norman06's Blog                     # the main title
 
 tagline: no, no sub-title please   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  nothing.
+  nothing here.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://norman06.github.io'
